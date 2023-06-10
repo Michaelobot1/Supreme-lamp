@@ -1,0 +1,29 @@
+.container{
+background: #7984FF;
+height:250px;
+padding:5px;
+margin: 5px;
+border-radius: 10px;
+text-align: center;
+color: #F8F9FE;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1{
+ text-align: center;
+ color: #F8F9FE;
+}
+#guesses{
+ margin-top: 10px;
+ border: 1px solid #F8F9FE;
+ color:#7984FF;
+ font-weight: bolder;
+ border-radius: 5px;
+}
+
+#submitBtn{
+ background:#7984FF;
+ color: #F8F9FE;
+ border: 1px solid #F8F9FE;
+ border-radius: 5px;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
